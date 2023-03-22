@@ -1,10 +1,10 @@
 Google Chrome, 10, 2, 5
 Slack, 8, 3, 7
-Registry, 1, 7, 2
+Registry, 1, 6, 2
 Inicio, 3, 5, 3
-Shell, 6, 3, 9
-Host de Servicio, 10, 1, 8
-Microsoft Text, 5, 2, 6
+Shell, 6, 8, 9
+Host de Servicio, 7, 1, 8
+Microsoft Text, 5, 6, 6
 System, 9, 4, 10
-Wininit, 4, 1, 4
-smss, 2, 3, 1
+Wininit, 4, 9, 4
+smss, 2, 5, 1
